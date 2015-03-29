@@ -7,7 +7,7 @@ On our 2nd meeting we will begin a patient, thourough reading of
 - Before the meeting, please review basic Clojurescript syntax in [[https://github.com/shaunlebron/ClojureScript-Syntax-in-15-minutes][this
   15 minutes tutorial]]. 
 
-- It is recommended to finish the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start tutorial]] that we started
+- It is highly recommended to finish the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start tutorial]] that we started
   on the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting ]](we are not planning to complete it together).
 
 - Please think wether you have any questions regarding the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st
