@@ -34,7 +34,7 @@ The following are the result of discussion on the [[http://www.meetup.com/Clojur
 
 - If you have questions, please share them online the group and/or bring those questions to the meetings.  
 
-** Possible changes of our meetings
+** Possible variations
 
 - Maybe watch video lectures together?
 
