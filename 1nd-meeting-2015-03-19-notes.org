@@ -1,7 +1,7 @@
 
 * Short summary of the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting]]
 
-- We introduced outselves.
+- We introduced ourselves.
 
 - We played a bit with the [[https://github.com/jackschaedler/goya][Goya]] demo.
 
