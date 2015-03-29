@@ -1,7 +1,7 @@
 
 * Main principles for our meetings
 
-The following are the result of discussion on the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting]].
+The following is the result of discussion on the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting]].
 
 ** Content
 
