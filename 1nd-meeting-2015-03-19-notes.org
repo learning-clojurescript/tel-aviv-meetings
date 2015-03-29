@@ -6,19 +6,19 @@
 - We played a bit with the [[https://github.com/jackschaedler/goya][Goya]] demo.
 
 - We went through parts of the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start tutorial]]:
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#clojurescript-compiler][clojurescript compiler]] - done
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#using-clojurescript-on-a-web-page][using clojurescript on a web page]] - done
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#google-closure-library][google-closure-library]] - done
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#less-boilerplate][less boilerplate]] - done
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#auto-building][auto building]] - skipped
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#browser-repl][browser repl]] - done 
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#production-builds][production builds]] - skipped
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#running-clojurescript-on-nodejs][running clojurescript on nodejs]] - skipped
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#nodejs-repl][nodejs repl]] - skipped
-[[https://github.com/clojure/clojurescript/wiki/Quick-Start#dependencies][dependencies]] - skipped
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#clojurescript-compiler][clojurescript compiler]] - done
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#using-clojurescript-on-a-web-page][using clojurescript on a web page]] - done
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#google-closure-library][google-closure-library]] - done
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#less-boilerplate][less boilerplate]] - done
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#auto-building][auto building]] - skipped
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#browser-repl][browser repl]] - done 
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#production-builds][production builds]] - skipped
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#running-clojurescript-on-nodejs][running clojurescript on nodejs]] - skipped
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#nodejs-repl][nodejs repl]] - skipped
+  - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#dependencies][dependencies]] - skipped
 
-- We played with the Clojurescript [[http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop][REPL]], briefly mentioning basic Clojurescript syntax using parts of
-[[http://www.niwi.be/cljs-workshop/#_first_steps_with_clojurescript][Section 4 of Andrey Antukh's tutorial]].
+- We played with the Clojurescript [[http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop][REPL]], briefly mentioning basic
+  Clojurescript syntax using parts of [[http://www.niwi.be/cljs-workshop/#_first_steps_with_clojurescript][Section 4 of Andrey Antukh's tutorial]].
 
 - We discussed our wishes for this series of meetings.
 
