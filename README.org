@@ -1,0 +1,5 @@
+tel-aviv-meetings
+
+This project contains various notes of the learning meetings we have
+in Tel Aviv.
+
