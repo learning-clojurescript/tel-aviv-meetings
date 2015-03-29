@@ -3,7 +3,8 @@
 
 - We introduced ourselves.
 
-- We played a bit with the [[https://github.com/jackschaedler/goya][Goya]] demo.
+- We played a bit with the [[https://github.com/jackschaedler/goya][Goya]] demo and discussed the conceptual role
+  of functional programming in its implementation.
 
 - We went through parts of the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start tutorial]]:
   - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#clojurescript-compiler][clojurescript compiler]] - done
