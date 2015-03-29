@@ -10,7 +10,7 @@ On our 2nd meeting we will begin a patient, thourough reading of
 - It is highly recommended to finish the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start tutorial]] that we started
   on the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting ]](we are not planning to complete it together).
 
-- Please think wether you have any questions regarding the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st
+- Please think whether you have any questions regarding the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st
   meeting]]. Please and write such questions down as messages in the 
   meetup page of the [[http://www.meetup.com/Clojure-Israel/events/221324856/][2nd meeting]] -- probably other people
   wish to know, too. If you wish, you may also contact Daniel Slutsky
