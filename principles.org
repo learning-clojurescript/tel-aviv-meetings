@@ -1,0 +1,44 @@
+
+* Main principles for our meetings
+
+The following are the result of discussion on the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting]].
+
+** Content
+
+- The main purpose of the meetings is to make Clojurescript accessible
+  to beginners.
+
+- Therefore, we focus on practical issues of language, project
+  organization, tooling, etc.; we will meet the more conceptual ideas
+  on our way, as they are manifested in practical solutions.
+
+** Calendar
+
+- We will meet every 2-3 weeks, on Thursdays.
+
+** Materials
+
+- We will use mainly free, online materials, so that members who miss
+  some meeting can always keep up.
+
+- Meeting notes will be publicly available.
+
+- We will have a syllabus, planning several meetings ahead.
+
+** Participation
+
+- Please invite friends to join. If you do so, please tell them a bit
+  about what we have already discussed.
+
+- Please prepare to the meetings.
+
+- If you have questions, please share them online the group and/or bring those questions to the meetings.  
+
+** Possible changes of our meetings
+
+- Maybe watch video lectures together?
+
+- Maybe have some homework?
+
+- On one of the next meetings, we will try to meet at the openspace
+  (rather than the lecture halls).
