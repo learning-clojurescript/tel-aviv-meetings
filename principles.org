@@ -12,6 +12,16 @@ The following is the result of discussion on the [[http://www.meetup.com/Clojure
   organization, tooling, etc.; we will meet the more conceptual ideas
   on our way, as they are manifested in practical solutions.
 
+- In the beginning, We might prefer 'mainstream' libraries and tools
+  (e.g., prefer lein over boot).
+
+- In the beginning, we tend to show 'bare bones', below the level of
+  usual tooling (e.g., we like the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start tutorial]]).
+
+- We prefer simplicity (e.g., in the beginning, we might avoid FRP
+  libraries, which tend to cover Clojurescript with additional layers,
+  hiding some of the basics underneath).
+
 ** Calendar
 
 - We will meet every 2-3 weeks, on Thursdays.
