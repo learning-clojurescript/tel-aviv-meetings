@@ -6,13 +6,13 @@ The following is the result of discussion on the [[http://www.meetup.com/Clojure
 ** Content
 
 - The main purpose of the meetings is to make Clojurescript accessible
-  to beginners. Therefore
+  to beginners. Therefore:
 
   - We focus on practical issues of language, project
     organization, tooling, etc.; we will meet the more conceptual ideas
     on our way, as they are manifested in practical solutions.
 
-  - In the beginning, We might prefer 'mainstream' libraries and tools
+  - In the beginning, we might prefer 'mainstream' libraries and tools
     (e.g., prefer lein over boot).
 
   - In the beginning, we tend to show 'bare bones', below the level of
