@@ -83,23 +83,18 @@ by Crockford:
 - which is a subset of Clojure.
 
 **** Quoting Mark Engelberg
-/At that point, I often say something like, "Do you know JSON?" After
-getting acknowledgment, I continue with, "Well, imagine if you could
-represent all your data as JSON, rather than a complex hierarchy of
-objects and methods, and the language was designed around making that
-kind of data super-easy to work with."/
+At that point, I often say something like, "Do you know JSON?" After
+getting acknowledgment, I continue with, "Well, imagine if you
+couldrepresent all your data as JSON, rather than a complex hierarchy
+of objects and methods, and the language was designed around making that
+kind of data super-easy to work with."
 [[http://programming-puzzler.blogspot.co.il/2013/12/clojure-vs-scala.html][Mark Engelberg, Clojure vs Scala, December 24th, 2013]]
 
 
 ** Why the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start Tutorial]] is important
 
-Quoting Dniel Szmulewicz from the meetup discussion page:
-/David Nolen strongly recommended everyone to practice the revamped
-quick start. It will teach you the basics when interacting with the
-Clojurescript compiler, including running REPLs. It is revamped in the
-sense that there are no tooling dependencies (on Leiningen and Maven)
-anymore. It really is the \"Hello World\" in Clojurescript./
-
+Quoting Daniel Szmulewicz from the meetup discussion page: 
+/David Nolen strongly recommended everyone to practice the revamped quick start. It will teach you the basics when interacting with the Clojurescript compiler, including running REPLs. It is revamped in the sense that there are no tooling dependencies (on Leiningen and Maven) anymore. It really is the \"Hello World\" in Clojurescript./
 
 ** Various things mentioned in the meeting
 
