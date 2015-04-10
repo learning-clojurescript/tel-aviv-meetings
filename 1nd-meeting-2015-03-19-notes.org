@@ -59,15 +59,15 @@ of feature is simple to implement in a Functional Programming approach
 
 *** The relation of Clojure to JSON
 
-**** quoting Douglas Crockford
-"JSON had a lot of influences on its design. It didn't just come out of my head. It's based
+**** Quoting Douglas Crockford
+/JSON had a lot of influences on its design. It didn't just come out of my head. It's based
 on a lot of things that I had observed over the years.
 The first -- maybe the greatest -- influence was Lisp, John McCarthy's work out of MIT
 in 1958. Lisp was built on a textural representation of simple binary trees. It was really powerful,
 and syntactically almost nothing, but it was kind of visually confusing because it's tons
 and tons of nested parentheses.
 The thing that was brilliant about Lisp was it used exactly the same representation for
-programs and data."
+programs and data./
 [[http://www.yuiblog.com/blog/2009/08/11/video-crockford-json/][Douglas Crockford, The JSON Saga, July 27th, 2009]]
 
 **** Clojure's answer
@@ -82,23 +82,23 @@ by Crockford:
 - in fact, more than JSON: [[https://github.com/edn-format/edn][EDN]],
 - which is a subset of Clojure.
 
-**** quoting Mark Engelberg
-At that point, I often say something like, "Do you know JSON?" After
+**** Quoting Mark Engelberg
+/At that point, I often say something like, "Do you know JSON?" After
 getting acknowledgment, I continue with, "Well, imagine if you could
 represent all your data as JSON, rather than a complex hierarchy of
 objects and methods, and the language was designed around making that
-kind of data super-easy to work with." 
+kind of data super-easy to work with."/
 [[http://programming-puzzler.blogspot.co.il/2013/12/clojure-vs-scala.html][Mark Engelberg, Clojure vs Scala, December 24th, 2013]]
 
 
 ** Why the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start Tutorial]] is important
 
 Quoting Dniel Szmulewicz from the meetup discussion page:
-"David Nolen strongly recommended everyone to practice the revamped
+/David Nolen strongly recommended everyone to practice the revamped
 quick start. It will teach you the basics when interacting with the
 Clojurescript compiler, including running REPLs. It is revamped in the
 sense that there are no tooling dependencies (on Leiningen and Maven)
-anymore. It really is the \"Hello World\" in Clojurescript."
+anymore. It really is the \"Hello World\" in Clojurescript./
 
 
 ** Various things mentioned in the meeting
