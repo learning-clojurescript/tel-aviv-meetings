@@ -1,12 +1,15 @@
 
 * Short summary of the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting]]
 
+- Participants: Ynon, Daniel, Daniel, Daniel, Elad, Doron, Ronen, Yaniv, Ilya,
+Zach, Evgeny, Sergei, Zvi, Shai
+
 - We introduced ourselves.
 
 - We played a bit with the [[https://github.com/jackschaedler/goya][Goya]] demo and discussed the conceptual role
   of functional programming in its implementation.
 
-- We went through parts of the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start tutorial]]:
+- We went through parts of the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start Tutorial]]:
   - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#clojurescript-compiler][clojurescript compiler]] - done
   - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#using-clojurescript-on-a-web-page][using clojurescript on a web page]] - done
   - [[https://github.com/clojure/clojurescript/wiki/Quick-Start#google-closure-library][google-closure-library]] - done
@@ -23,6 +26,86 @@
 
 - We discussed our wishes for this series of meetings.
 
-* Long summary of the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting]]
+* More notes from the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting]]
 
-[to be completed soon ...]
+** More about the [[https://github.com/jackschaedler/goya][Goya]] demo
+You can see the initial app stat defined at the var app-state defined
+in src/cljs/goya/appstate.cljs.
+When the user hovers the edit history, the app travels over its past
+states, displaying them on the little small canvas on the left.
+We discussed this feature of time travel. Elad explained how this kind
+of feature is simple to implement in a Functional Programming approach
+(that we will discuss in the future!) using immutability.
+
+** Some things we mentioned regarding the language
+
+*** Clojure
+- invented by Rich Hickey
+- main language ideas
+  - LISP
+  - Functional Programming, 
+  - language is hosted on different virtual machines (JVM, etc.)
+  - simple, safe concurrency
+- community ideologies
+  - viewing (almost) everything as data
+  - treating asynchronous problems by [[http://en.wikipedia.org/wiki/Communicating_sequential_processes][CSP]] (thanks to [[https://github.com/clojure/core.async][core.async]])
+
+*** Clojurescript
+- a compiler of Clojure to (optimized) Javascript
+- great libraries
+  + React 'wrappers': Om, Reagent, ...
+  + Functional Reactive programming: Hoplon, Regai, ...
+
+*** The relation of Clojure to JSON
+
+**** quoting Douglas Crockford
+"JSON had a lot of influences on its design. It didn't just come out of my head. It's based
+on a lot of things that I had observed over the years.
+The first -- maybe the greatest -- influence was Lisp, John McCarthy's work out of MIT
+in 1958. Lisp was built on a textural representation of simple binary trees. It was really powerful,
+and syntactically almost nothing, but it was kind of visually confusing because it's tons
+and tons of nested parentheses.
+The thing that was brilliant about Lisp was it used exactly the same representation for
+programs and data."
+[[http://www.yuiblog.com/blog/2009/08/11/video-crockford-json/][Douglas Crockford, The JSON Saga, July 27th, 2009]]
+
+**** Clojure's answer
+We argued that Clojure offers an answer to the dilemma presented above
+by Crockford:
+- Clojure is
+- a LISP
+- with more data structures (not just lists)
+- and a bit more syntax (JSON-like)
+- making it simple and easy to handle "JSON"
+- and think in "JSON",
+- in fact, more than JSON: [[https://github.com/edn-format/edn][EDN]],
+- which is a subset of Clojure.
+
+**** quoting Mark Engelberg
+At that point, I often say something like, "Do you know JSON?" After
+getting acknowledgment, I continue with, "Well, imagine if you could
+represent all your data as JSON, rather than a complex hierarchy of
+objects and methods, and the language was designed around making that
+kind of data super-easy to work with." 
+[[http://programming-puzzler.blogspot.co.il/2013/12/clojure-vs-scala.html][Mark Engelberg, Clojure vs Scala, December 24th, 2013]]
+
+
+** Why the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start Tutorial]] is important
+
+Quoting Dniel Szmulewicz from the meetup discussion page:
+"David Nolen strongly recommended everyone to practice the revamped
+quick start. It will teach you the basics when interacting with the
+Clojurescript compiler, including running REPLs. It is revamped in the
+sense that there are no tooling dependencies (on Leiningen and Maven)
+anymore. It really is the \"Hello World\" in Clojurescript."
+
+
+** Various things mentioned in the meeting
+
+- the React Javascript library
+- the [[https://github.com/sarabander/sicp][SICP book]] and [[book][SICP lectures]] by Abelson and Sussman
+- Uncle Bob Martin [[http://thecleancoder.blogspot.co.il/2010/08/why-clojure.html][says]] that, reading SICP, he realised that the
+  notion of assignment was introduced only on page 2016 (Thanks for
+  the reference, Shai!).
+- Common Lisp
+
