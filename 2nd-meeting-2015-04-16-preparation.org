@@ -9,6 +9,7 @@ On our 2nd meeting we will begin a patient, thourough reading of
 
 - It is highly recommended to finish the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start tutorial]] that we started
   on the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting ]](we are not planning to complete it together).
+  You may also find this [[http://www.alexeberts.com/exploring-the-clojurescript-repl/][related blog post by Alex Eberts]] .
 
 - Please think whether you have any questions regarding the [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st
   meeting]]. Please and write such questions down as messages in the 
