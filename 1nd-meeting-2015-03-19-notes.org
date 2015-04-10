@@ -76,7 +76,7 @@ by Crockford:
 - which is a subset of Clojure.
 
 **** Quoting Mark Engelberg
-/At that point, I often say something like, "Do you know JSON?" After getting acknowledgment, I continue with, "Well, imagine if you couldrepresent all your data as JSON, rather than a complex hierarchy of objects and methods, and the language was designed around making that kind of data super-easy to work with."/
+/At that point, I often say something like, 'Do you know JSON?' After getting acknowledgment, I continue with, 'Well, imagine if you couldrepresent all your data as JSON, rather than a complex hierarchy of objects and methods, and the language was designed around making that kind of data super-easy to work with.'/
 [[http://programming-puzzler.blogspot.co.il/2013/12/clojure-vs-scala.html][Mark Engelberg, Clojure vs Scala, December 24th, 2013]]
 
 
