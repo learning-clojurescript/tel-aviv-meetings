@@ -1,4 +1,4 @@
-* tel-aviv-meetings
+* Learning Clojurescript: Tel Aviv meetings
 
 This project contains various notes of the learning meetings we have
 in Tel Aviv.
