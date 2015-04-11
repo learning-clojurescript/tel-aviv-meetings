@@ -1,9 +1,9 @@
-tel-aviv-meetings
+* tel-aviv-meetings
 
 This project contains various notes of the learning meetings we have
 in Tel Aviv.
 
-* Table of contents
+** Table of contents
 
 - [[principles.org][main principles driving our meetings]]
 
