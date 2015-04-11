@@ -33,7 +33,10 @@ You can see the initial app stat defined at the var app-state defined
 in src/cljs/goya/appstate.cljs.
 When the user hovers the edit history, the app travels over its past
 states, displaying them on the little small canvas on the left.
-We discussed this feature of time travel. Elad explained how this kind
+
+We discussed this feature of time travel.
+
+Elad explained how this kind
 of feature is simple to implement in a Functional Programming approach
 (that we will discuss in the future!) using immutability.
 
@@ -82,7 +85,8 @@ by Crockford:
 
 ** Why the [[https://github.com/clojure/clojurescript/wiki/Quick-Start][Quick Start Tutorial]] is important
 
-Quoting Daniel Szmulewicz from the meetup discussion page: 
+Quoting Daniel Szmulewicz from  [[http://www.meetup.com/Clojure-Israel/events/220777364/][1st meeting discussion page]]: 
+
 /David Nolen strongly recommended everyone to practice the revamped quick start. It will teach you the basics when interacting with the Clojurescript compiler, including running REPLs. It is revamped in the sense that there are no tooling dependencies (on Leiningen and Maven) anymore. It really is the \"Hello World\" in Clojurescript./
 
 ** Various things mentioned in the meeting
