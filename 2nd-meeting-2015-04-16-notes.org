@@ -1,0 +1,52 @@
+2015-04-16 Clojurescript meeting
+
+* Short summary of the [[http://www.meetup.com/Clojure-Israel/events/221324856/][2nd meeting]]
+- Participants: Ynon, Daniel, Barak, Evgeny, Zvi, Hagai, Shai, Gideon
+
+* More notes from the [[http://www.meetup.com/Clojure-Israel/events/221324856/][2nd meeting]]
+
+
+* Introduction
+
+
+* Review
+
+* Development tools (partial list)
+** [[https://github.com/clojure/clojurescript/wiki/Quick-Start]['Quick Start' - standalone Clojurescript jar]]
+*** REPL
+** Build tools
+*** [[http://leiningen.org/][Leiningen]]
+*** [[https://github.com/boot-clj/boot][Boot]]
+** Live-reload programming
+*** [[https://github.com/bhauman/lein-figwheel][Figwheel]]
+**** [[https://github.com/bhauman/devcards][Devcards]]
+*** [[https://github.com/adzerk-oss/boot-reload][Boot-reload]]
+**** [[https://github.com/danielsz/holygrail][Holy grail]]
+** Templates
+*** [[https://github.com/plexus/chestnut][Chestnut]] (creates a Leiningen project)
+*** [[https://github.com/martinklepsch/tenzing][Tenzing]] (creates a Boot project)
+** IDEs
+- Maybe discuss some other time?
+- Gideon is telling about Lighttable (written in Clojurescript), BOT methodology
+- Zvi is telling about eve (which is no longer in Clojurescript)
+
+
+* Some practice (with devcards)
+
+* A short discussion: how should we communicate?
+We decided: we will use the google group
+
+
+* Continuing [[http://www.niwi.be/cljs-workshop/][Andrey Antukh's tutorial]]
+
+** Note: please install Leiningen from its web page, not from Debian repositories, etc.
+
+** Some remarks about the compilation process
+*** Clojure - [[http://www.braveclojure.com/read-and-eval/][some notes from Daniel Higginbotham's tutorial]]
+*** Clojurescript - [[http://blog.fogus.me/2012/04/25/the-clojurescript-compilation-pipeline/][some notes from Michael Fogus'es blog]]
+
+*** Google Closure Compiler - http://closure-compiler.appspot.com/home
+
+
+* More practice
+ 
