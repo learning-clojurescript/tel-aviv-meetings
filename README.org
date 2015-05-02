@@ -9,7 +9,8 @@ For updates, please see [[https://groups.google.com/forum/#!forum/clojure-israel
 
 - [[principles.org][main principles driving our meetings]]
 
-- [[1nd-meeting-2015-03-19-notes.org][notes of the 1st meeting (2015-3-19)]]
+- [[1st-meeting-2015-03-19-notes.org][notes of the 1st meeting (2015-3-19)]]
 
 - [[2nd-meeting-2015-04-16-preparation.org][suggested preparation for the 2nd meeting (2015-4-16)]]
 
+- [[2nd-meeting-2015-04-16-notes.org][notes of the 2nd meeting (2015-4-16)]]
