@@ -55,8 +55,7 @@ Here are the resources used in the meeting:
 *** Clojure's compilation process
 - read some notes from the [[http://www.braveclojure.com/read-and-eval/][relevant chapter of Daniel Higginbotham's "Clojure for the Brave and True"]].
 *** Clojurescript 
-- had a brief discussion, based on the diagrams taken from
-[[http://blog.fogus.me/2012/04/25/the-clojurescript-compilation-pipeline/][Michael Fogus'es notes]].
+- had a brief discussion, based on the diagrams taken from [[http://blog.fogus.me/2012/04/25/the-clojurescript-compilation-pipeline/][Michael Fogus'es notes]].
 You may want to read more into these notes, as well as some other
 posts mentioned at their bottom.
 
