@@ -3,7 +3,7 @@
 This project contains various notes of the learning meetings we have
 in Tel Aviv.
 
-For updates, please see the Google group. TODO: link
+For updates, please see [[https://groups.google.com/forum/#!forum/clojure-israel][the Google group]].
 
 ** Table of contents
 
