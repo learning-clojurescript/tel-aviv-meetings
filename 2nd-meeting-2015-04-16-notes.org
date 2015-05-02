@@ -55,13 +55,10 @@ Here are the resources used in the meeting:
 *** Clojure's compilation process
 - read some notes from the [[http://www.braveclojure.com/read-and-eval/][relevant chapter of Daniel Higginbotham's "Clojure for the Brave and True"]].
 *** Clojurescript 
-- had a brief discussion, based on the diagrams taken from [[http://blog.fogus.me/2012/04/25/the-clojurescript-compilation-pipeline/][Michael Fogus'es notes]].
-You may want to read more into these notes, as well as some other
-posts mentioned at their bottom.
+- had a brief discussion, based on the diagrams taken from [[http://blog.fogus.me/2012/04/25/the-clojurescript-compilation-pipeline/][Michael Fogus'es notes]]. You may want to read more into these notes, as well as some other posts mentioned at their bottom.
 
 *** Google Closure Compiler
-- discussed how it is involved Google's Closure Compiler is involved in
-the Clojurescript compiler.
+- discussed how it is involved Google's Closure Compiler is involved in the Clojurescript compiler.
 
 - played with an [[http://closure-compiler.appspot.com/home][online version]] of it, noticing dramatic differences
   between the different modes of optimization.
