@@ -20,10 +20,10 @@
 *** Impoartant note
 Please install Leiningen directly from its [[http://leiningen.org/][web page]], not from your package manager's repositories.
 
-*** [[http://www.niwi.be/cljs-workshop/#_first_clojurescript_hello_world][Section 4]]
+*** [[http://www.niwi.be/cljs-workshop/#_first_steps_with_clojurescript][Section 4]]
 We just reviewed some parts for basic Clojurescript syntax.
 
-*** [[http://www.niwi.be/cljs-workshop/#_first_steps_with_clojurescript][Section 5]]
+*** [[http://www.niwi.be/cljs-workshop/#_first_clojurescript_hello_world][Section 5]]
 We went through this short section, discussing the basic details in programming a Clojurescript Hello World app.
 
 ** Clojure's and Clojurescript's compilation process
