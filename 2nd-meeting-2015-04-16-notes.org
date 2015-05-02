@@ -15,9 +15,6 @@
 
 - We played just a bit with Bruce Hauman's [[https://github.com/bhauman/devcards][Devcards]], a nice visual development tool for Clojurescript.
 
-** Syntax
-- We reviewed some Clojurescript syntax using parts of [[http://www.niwi.be/cljs-workshop/#_first_steps_with_clojurescript][Section 4 of Andrey Antukh's tutorial]].
-
 ** Continuing [[http://www.niwi.be/cljs-workshop/][Andrey Antukh's tutorial]]:
 
 *** Impoartant note
