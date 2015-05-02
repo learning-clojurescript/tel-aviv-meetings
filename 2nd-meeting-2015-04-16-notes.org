@@ -3,50 +3,77 @@
 * Short summary of the [[http://www.meetup.com/Clojure-Israel/events/221324856/][2nd meeting]]
 - Participants: Ynon, Daniel, Barak, Evgeny, Zvi, Hagai, Shai, Gideon
 
+- We decided that meeting discussions will take place in [[https://groups.google.com/forum/#!forum/clojure-israel][the Google group]].
+  *Please join this group to keep in touch and get updates*.
+
+- We introduced ourselves.
+
+- We reviewed the previous meeting.
+
+** Development tools
+- We briefly mentioned some of the common development tools of Clojure and Clojurescript. See more details below.
+
+- We played just a bit with Bruce Hauman's [[https://github.com/bhauman/devcards][Devcards]], a nice visual development tool for Clojurescript.
+
+** Syntax
+- We reviewed some Clojurescript syntax using parts of [[http://www.niwi.be/cljs-workshop/#_first_steps_with_clojurescript][Section 4 of Andrey Antukh's tutorial]].
+
+** Continuing [[http://www.niwi.be/cljs-workshop/][Andrey Antukh's tutorial]]:
+
+*** Impoartant note
+Please install Leiningen directly from its [[http://leiningen.org/][web page]], not from your package manager's repositories.
+
+*** [[http://www.niwi.be/cljs-workshop/#_first_clojurescript_hello_world][Section 4]]
+We just reviewed some parts for basic Clojurescript syntax.
+
+*** [[http://www.niwi.be/cljs-workshop/#_first_steps_with_clojurescript][Section 5]]
+We went through this short section, discussing the basic details in programming a Clojurescript Hello World app.
+
+** Clojure's and Clojurescript's compilation process
+We mentioned the main stages and discussed the role of Google Closure Compiler. See more details below.
+
 * More notes from the [[http://www.meetup.com/Clojure-Israel/events/221324856/][2nd meeting]]
 
+** Development tools (partial list)
+*** [[https://github.com/clojure/clojurescript/wiki/Quick-Start]['Quick Start' - standalone Clojurescript jar]]
+**** REPL
+*** Build tools
+**** [[http://leiningen.org/][Leiningen]] by Phil Hagelberg
+**** [[https://github.com/boot-clj/boot][Boot]] by Alan Dipert and Micha Niskin
+*** Live-reload programming
+**** [[https://github.com/bhauman/lein-figwheel][Figwheel]] by Bruce Hauman
+***** [[https://github.com/bhauman/devcards][Devcards]] by Bruce Hauman
+**** [[https://github.com/adzerk-oss/boot-reload][Boot-reload]] 
+***** [[https://github.com/danielsz/holygrail][Holy grail]] by Daniel Szmulewicz
+*** Templates
+**** [[https://github.com/plexus/chestnut][Chestnut]] by Arne Brasseur (creates a Leiningen project)
+**** [[https://github.com/martinklepsch/tenzing][Tenzing]] by Martin Klepsch (creates a Boot project)
+*** IDEs
+- Maybe discuss those some other time?
+- Gideon told about Chris Granger's [[http://lighttable.com/][Lighttable]] written in Clojurescript and [[http://www.chris-granger.com/2013/01/24/the-ide-as-data/][BOT methodology]].
+- Zvi told about the successor, [[http://incidentalcomplexity.com/2014/10/16/retrospective/][eve]] (written by the same author, no longer in Clojurescript).
 
-* Introduction
+** Some details about the compilation process
+Here are the resources used in the meeting:
+*** Clojure's compilation process
+- read some notes from the [[http://www.braveclojure.com/read-and-eval/][relevant chapter of Daniel Higginbotham's "Clojure for the Brave and True"]].
+*** Clojurescript 
+- had a brief discussion, based on the diagrams taken from
+[[http://blog.fogus.me/2012/04/25/the-clojurescript-compilation-pipeline/][Michael Fogus'es notes]].
+You may want to read more into these notes, as well as some other
+posts mentioned at their bottom.
 
+*** Google Closure Compiler
+- discussed how it is involved Google's Closure Compiler is involved in
+the Clojurescript compiler.
 
-* Review
-
-* Development tools (partial list)
-** [[https://github.com/clojure/clojurescript/wiki/Quick-Start]['Quick Start' - standalone Clojurescript jar]]
-*** REPL
-** Build tools
-*** [[http://leiningen.org/][Leiningen]]
-*** [[https://github.com/boot-clj/boot][Boot]]
-** Live-reload programming
-*** [[https://github.com/bhauman/lein-figwheel][Figwheel]]
-**** [[https://github.com/bhauman/devcards][Devcards]]
-*** [[https://github.com/adzerk-oss/boot-reload][Boot-reload]]
-**** [[https://github.com/danielsz/holygrail][Holy grail]]
-** Templates
-*** [[https://github.com/plexus/chestnut][Chestnut]] (creates a Leiningen project)
-*** [[https://github.com/martinklepsch/tenzing][Tenzing]] (creates a Boot project)
-** IDEs
-- Maybe discuss some other time?
-- Gideon is telling about Lighttable (written in Clojurescript), BOT methodology
-- Zvi is telling about eve (which is no longer in Clojurescript)
-
-
-* Some practice (with devcards)
-
-* A short discussion: how should we communicate?
-We decided: we will use the google group
-
-
-* Continuing [[http://www.niwi.be/cljs-workshop/][Andrey Antukh's tutorial]]
-
-** Note: please install Leiningen from its web page, not from Debian repositories, etc.
-
-** Some remarks about the compilation process
-*** Clojure - [[http://www.braveclojure.com/read-and-eval/][some notes from Daniel Higginbotham's tutorial]]
-*** Clojurescript - [[http://blog.fogus.me/2012/04/25/the-clojurescript-compilation-pipeline/][some notes from Michael Fogus'es blog]]
-
-*** Google Closure Compiler - http://closure-compiler.appspot.com/home
+- played with an [[http://closure-compiler.appspot.com/home][online version]] of it, noticing dramatic differences
+  between the different modes of optimization.
 
 
-* More practice
- 
+** Other things mentioned
+
+*** React
+During and after the talk we have had some discussions of [[https://facebook.github.io/react/][ReactJS]] and [[https://www.youtube.com/watch?v=oRmj3IUkRVk][its uses in Clojurescript]].
+[[http://www.niwi.be/cljs-workshop/][Andrey Antukh's tutorial]] teaches about [[https://github.com/omcljs/om][Om]], which is one of the Clojurescript libraries using React. We hope to reach this part in about 2-3 meetings.
+Just before the meeting, Ynon wrote [[https://www.tocode.co.il/blog/2015-04-react-rails][a blog post]] about it.
