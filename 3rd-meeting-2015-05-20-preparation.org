@@ -1,0 +1,29 @@
+
+* Preparation for the [[http://www.meetup.com/Clojure-Israel/events/221949585/][3rd meeting]]
+
+On our 3rd meeting we allow ourselves a little break from our usual
+tutorial-style series. We have a good reason to do it: our friend
+[[https://github.com/danielsz][Daniel Szmulewicz]] will tell about some of his recent developments.
+
+The talk will be a little faster than the usual ones, and not all
+details will be explained. We expect it to be interesting to both
+beginners and experienced Clojurians.
+
+** Plan
+- First part: a very short introduction to [[https://github.com/boot-clj][boot-clj]] - a build tool for
+  Clojure and Clojurescript written by Alan Dipert, Micha Niskin and
+  others. Boot brings some important Functional Programming ideas to
+  the realm of build tools.
+- Second part: a demonstration of [[https://github.com/danielsz][Daniel Szmulewicz]]'s [[https://github.com/danielsz/holygrail][holygrail]]
+  project, which suggests a new, refreshing workflow for web development.
+  Citing the project's README: "/This demonstrates the holy grail workflow for web development the way I envision it: a restartable back-end in the REPL + a hot-reloadable front-end in the browser./"
+  
+** Before the meeting
+
+- It is recommended to read into [[https://github.com/flyingmachine][Daniel Higginbotham]]'s [[http://www.flyingmachinestudios.com/programming/boot-clj/][intro to
+  boot-clj]]. This is a very conceptual intro, explaining the idea of
+  middleware factories and its role in constructing composable systems.
+
+- Please think whether you have any questions regarding the previous
+  meetings.
+  You may write about such questions down as messages in [[https://groups.google.com/forum/#!forum/clojure-israel][the mailing list]].
