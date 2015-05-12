@@ -1,7 +1,7 @@
 
 * Preparation for the [[http://www.meetup.com/Clojure-Israel/events/221949585/][3rd meeting]]
 
-On our 3rd meeting we allow ourselves a little break from our usual
+On our 3rd meeting we allow ourselves a little break from the usual
 tutorial-style series. We have a good reason to do it: our friend
 [[https://github.com/danielsz][Daniel Szmulewicz]] will tell about some of his recent developments.
 
@@ -11,7 +11,7 @@ beginners and experienced Clojurians.
 
 ** Plan
 - First part: a very short introduction to [[https://github.com/boot-clj][boot-clj]] - a build tool for
-  Clojure and Clojurescript written by Alan Dipert, Micha Niskin and
+  Clojure and Clojurescript written by [[https://github.com/alandipert][Alan Dipert]], [[https://github.com/micha][Micha Niskin]] and
   others. Boot brings some important Functional Programming ideas to
   the realm of build tools.
 - Second part: a demonstration of [[https://github.com/danielsz][Daniel Szmulewicz]]'s [[https://github.com/danielsz/holygrail][holygrail]]
@@ -26,4 +26,4 @@ beginners and experienced Clojurians.
 
 - Please think whether you have any questions regarding the previous
   meetings.
-  You may write about such questions down as messages in [[https://groups.google.com/forum/#!forum/clojure-israel][the mailing list]].
+  You may write about such questions in [[https://groups.google.com/forum/#!forum/clojure-israel][the mailing list]].
