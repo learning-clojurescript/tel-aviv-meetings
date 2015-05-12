@@ -20,9 +20,10 @@ beginners and experienced Clojurians.
   
 ** Before the meeting
 
-- It is recommended to read into [[https://github.com/flyingmachine][Daniel Higginbotham]]'s [[http://www.flyingmachinestudios.com/programming/boot-clj/][introduction to
-  boot-clj]]. This is a very conceptual intro, explaining the idea of
-  middleware factories and its role in constructing composable systems.
+- It is recommended (but not mandatory )to read into [[https://github.com/flyingmachine][Daniel Higginbotham]]'s [[http://www.flyingmachinestudios.com/programming/boot-clj/][introduction to
+  boot-clj]]. This is a rather conceptual intro, explaining the idea of
+  middleware factories and its role in constructing composable
+  systems.
 
 - Please think whether you have any questions regarding the previous
   meetings.
