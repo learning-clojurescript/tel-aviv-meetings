@@ -1,0 +1,22 @@
+
+* Plan for the [[http://www.meetup.com/Clojure-Israel/events/221949585/][3rd meeting]]
+
+** First part: a very short introduction to [[https://github.com/boot-clj][boot-clj]]
+(presented by Daniel Slutsky)
+
+(partly based on [[https://github.com/flyingmachine][Daniel Higginbotham]]'s [[http://www.flyingmachinestudios.com/programming/boot-clj/][introduction to boot-clj]])
+
+- a short reminder about Leiningen
+- discussion of the need for composability
+- how tasks are used and composed
+- if time permits: understanding tasks as middleware factories
+- some examples of tasks used in holygrail:
+  - (which ones are important/interesting to explain?)
+  - maybe environ?
+  - maybe reload?
+- some words about filesets and immutability
+- a short remark about pods
+
+** Second (main) part: holygrail
+(presented by [[https://github.com/danielsz][Daniel Szmulewicz]])
+
