@@ -1,5 +1,5 @@
 
-* Plan for the [[http://www.meetup.com/Clojure-Israel/events/221949585/][3rd meeting]]
+* Plan for the [[http://www.meetup.com/Clojure-Israel/events/221949585/][3rd meeting]] -- DRAFT, UNDER CONSTRUCTION
 
 ** First part: a very short introduction to [[https://github.com/boot-clj][boot-clj]]
 (presented by Daniel Slutsky)
