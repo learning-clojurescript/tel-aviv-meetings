@@ -16,3 +16,5 @@ For updates, please see [[https://groups.google.com/forum/#!forum/clojure-israel
 - [[2nd-meeting-2015-04-16-notes.org][notes of the 2nd meeting (2015-4-16)]]
 
 - [[3rd-meeting-2015-05-20-preparation.org][preparation for the 3rd meeting (2015-5-20)]]
+
+- [[3rd-meeting-2015-05-20-plan.org][plan for the 3rd meeting (2015-5-20)]]
